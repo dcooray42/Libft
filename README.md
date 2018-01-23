@@ -22,7 +22,7 @@ Se placer dans le dossier dans lequel vous avez fait la copie des fichiers sourc
 ```
 make
 ```
-Plusieurs fichiers .o auront fait leur apparitions dans le dossier que vous avez cloné ainsi qui la librairie statique
+Plusieurs fichiers .o auront fait leur apparitions dans le dossier que vous avez cloné ainsi que la librairie statique
 
 ```
 libft.a
