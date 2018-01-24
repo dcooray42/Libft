@@ -74,7 +74,7 @@ gcc -Wall -Werror -Wextra -I [PATH du dossier cloné/includes] -L [PATH du dossi
 
 Voici la liste des fonctions présentes classées suivant leurs appartenances.
 
-### Fonctions appartenant la bibliothèque standard du C
+### Fonctions appartenant à la bibliothèque standard du C
 
 * ft_memset
 * ft_bzero
@@ -105,7 +105,7 @@ Voici la liste des fonctions présentes classées suivant leurs appartenances.
 * ft_toupper
 * ft_tolower
 
-### Fonctions annexes demandées dans la réalisation du projet et créer par la suite
+### Fonctions annexes demandées dans la réalisation du projet et créées par la suite
 
 * ft_atoif
 * ft_atol
@@ -147,6 +147,8 @@ Voici la liste des fonctions présentes classées suivant leurs appartenances.
 * ft_lstadd
 * ft_lstiter
 * ft_lstmap
+* get_next_line
+* ft_printf
 
 ## Auteur
 
