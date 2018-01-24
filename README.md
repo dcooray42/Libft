@@ -150,6 +150,9 @@ Voici la liste des fonctions présentes classées suivant leurs appartenances.
 * get_next_line
 * ft_printf
 
+## Note
+115/100
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
