@@ -5,7 +5,7 @@ fonctions annexes pouvant servir pour les projets suivants dans le cursus.
 
 ## Pour commencer
 
-Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aiderons à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
 
@@ -60,7 +60,7 @@ make re
 ## Faire des tests
 
 Aucun test n'est fournis avec ce projet. Toutefois vous pouvez crée un binaire avec vos propres fichiers sources et la 
-librairie précédemment créer.
+librairie précédemment créé.
 
 ### Compilation avec le fichier libft.a
 
