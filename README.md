@@ -5,13 +5,13 @@ fonctions annexes pouvant servir pour les projets suivants dans le cursus.
 
 ## Pour commencer
 
-Ces instructions vous aiderons à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aideront à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
 
 **Attention: A partir de maintenant, toutes les étapes (téléchargement, installation/compilation, exécution) seront à effectuer sur un terminal.**
 
-#### Systeme d'exploitation
+#### Système d'exploitation
 
 ```
 GNU/Linux, Mac OS X ou macOS Sierra
@@ -59,12 +59,12 @@ make re
 
 ## Faire des tests
 
-Aucun test n'est fournis avec ce projet. Toutefois vous pouvez crée un binaire avec vos propres fichiers sources et la 
+Aucun test n'est fourni avec ce projet. Toutefois vous pouvez créé un binaire avec vos propres fichiers sources et la 
 librairie précédemment créé.
 
 ### Compilation avec le fichier libft.a
 
-Amenager vos fichiers sources et headers dans un dossier unique de tel sorte à ce que la commande suivante fonctionne
+Aménager vos fichiers sources et headers dans un dossier unique de tel sorte à ce que la commande suivante fonctionne
 
 ```
 gcc -Wall -Werror -Wextra -I [PATH du dossier cloné/includes] -L [PATH du dossier cloné] -lft *.c -o [nom de votre binaire]
@@ -72,7 +72,7 @@ gcc -Wall -Werror -Wextra -I [PATH du dossier cloné/includes] -L [PATH du dossi
 
 ## Liste des fonctions présentes dans la librairie libft.a
 
-Voici la liste des fonctions présentes classées suivant leur appartenances.
+Voici la liste des fonctions présentes classées suivant leurs appartenances.
 
 ### Fonctions appartenant la bibliothèque standard du C
 
