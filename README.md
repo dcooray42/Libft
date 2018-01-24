@@ -9,6 +9,8 @@ Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le fair
 
 ### Prérequis
 
+**Attention: A partir de maintenant, toutes les étapes (téléchargement, installation/compilation, exécution) seront à effectuer sur un terminal.**
+
 #### Systeme d'exploitation
 
 ```
