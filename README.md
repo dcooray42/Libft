@@ -155,4 +155,4 @@ Voici la liste des fonctions présentes classées suivant leurs appartenances.
 
 ## Auteur
 
-* **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Dimitri Cooray** - [Lien vers github](https://github.com/dcooray42)
